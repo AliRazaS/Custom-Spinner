@@ -9,7 +9,7 @@
     android:background="@mipmap/ic_launcher">
 
     <Spinner
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/custom_spinner"
         android:layout_marginTop="50dp"
